@@ -36,22 +36,24 @@
 - UI 및 기능 개발 : 2024.05.05 ~ 2024.07.03
 
 ### 목표
-
+- 협업 능력 향상: 팀원들과 효과적으로 소통하고 협력하며 프로젝트를 성공적으로 완료하는 경험을 통해 협업 능력을 향상시킵니다.
+- 실무 기술 습득: 프로젝트를 통해 최신 기술과 도구를 활용하여 실무에서 필요한 기술과 문제 해결 능력을 습득합니다.
+- 프로젝트 관리 경험: 요구사항 분석, 설계, 개발, 테스트, 배포의 전 과정을 경험하며 프로젝트 관리 능력을 기릅니다.
 
 <br />
 
 # 2. 팀원 구성
-| **Name**     | 박태훈                                                                  | 박진영                                                                  | 박찬웅                                                                  | 김예진                                                                  | 서여진                                                                                                                                  |
+| **Name**     | 조윤찬                                                                  | 김현준                                                                  | 박찬웅                                                                  | 이서용                                                                  | 정재윤                                                                                                                                  |
 |:------------:|:--------------------------------------------------------------------:|:--------------------------------------------------------------------:|:--------------------------------------------------------------------:|:--------------------------------------------------------------------:|:--------------------------------------------------------------------:|
-| **Profile**  |<img width="120" src="https://github.com/6-SSGSAKK/.github/assets/73014511/6fcc8ace-bc4a-4dc8-86df-451c7dff299f">|<img width="120" src="https://github.com/6-SSGSAKK/.github/assets/73014511/71bdb6da-a3b0-48e9-87ad-0dae65a58ab2"> | <img width="120" src="https://github.com/6-SSGSAKK/.github/assets/73014511/58a5f2fe-3c0e-4812-b8d5-f7410b6265c2">| <img width="120" src="https://github.com/6-SSGSAKK/.github/assets/73014511/57d3f608-042c-4ed2-ae40-671dd8057bc1"> | <img width="120" src="https://github.com/6-SSGSAKK/.github/assets/73014511/47ec7d32-12bf-4303-9198-7444e2c78c3c"> |  
-| **Position** | Backend <br/> (팀장)      | Backend              | Backend          | Frontend                   | Frontend            | 
-| **Git** | [@hoontaepark](https://github.com/hoontaepark)       | [@icarus012832](https://github.com/icarus012832)    | [@chanchanwoong](https://github.com/chanchanwoong)      | [@venderjin](https://github.com/venderjin)    | [@Yeojinny](https://github.com/Yeojinny)            | 
+| **Profile**  || | |  |  |  
+| **Position** | Frontend <br/> (팀장)      | Backend              | Backend          | Backend                   | Backend            | 
+| **Git** | [@YOON-CC](https://github.com/YOON-CC)       | [@hyun7494](https://https://github.com/hyun7494)    | [@chanchanwoong](https://github.com/chanchanwoong)      | [@LEEForgiveness](https://github.com/LEEForgiveness)    | [@ddolboghi](https://github.com/ddolboghi)            | 
 
 
 <br />
 
 # 3. 시스템 아키텍처
-![system-architecture](https://github.com/6-SSGSAKK/.github/assets/73014511/dae736f8-7bcd-45ea-b981-d1f964d5d55b)
+![image](https://github.com/SKY-HORSE-MAN-POWER/.github/assets/121328409/e9932f9b-d5d7-41f2-970e-798d3215191b)
 
 <br />
 
