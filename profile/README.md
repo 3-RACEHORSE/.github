@@ -1,4 +1,4 @@
-# 🛒 SSG.COM 클론코딩
+# ⏲ 인플루언서 시간 경매 서비스
 
 <img width="150" src="https://github.com/6-SSGSAKK/.github/assets/73014511/da216ac2-21a3-4426-81a7-6192d2f24c30">
 <img width="150" src="https://github.com/6-SSGSAKK/.github/assets/73014511/5b78e4bb-b3e9-46a9-ae4a-6c8ace2c3cc6">
@@ -351,6 +351,7 @@ https://www.erdcloud.com/d/B5TXAxjSmh2AeW4Bz
 ### 🦕 조윤찬
 ### 🦖 정재윤
 ### 🐸 이서용
+좋은 사람들과 심도있게 기술에 대해 토론하고 어떻게 구현하는게 성능에 더 좋은지 얘기할 기회는 또 없을 것 같습니다. 팀원들 감사합니다.
 ### 💚 박찬웅
 ### 🌱 김현준
 
