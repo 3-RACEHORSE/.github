@@ -152,10 +152,6 @@
 [목차로](#목차)
 
 </div>
-# 6. ERD
-
-![Copy of Copy of NEW천마인력](https://github.com/SKY-HORSE-MAN-POWER/.github/assets/72384046/11f3c0e3-938c-40f8-91fc-9f1984f81aaf)
-
 
 <br />
 
