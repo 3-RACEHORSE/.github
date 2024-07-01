@@ -112,7 +112,7 @@
 ![image](https://github.com/3-RACEHORSE/.github/assets/121328409/faac6ad3-4941-48d7-afec-628a07f2de01)
 ![image](https://github.com/3-RACEHORSE/.github/assets/121328409/1d9a7d72-26c4-4419-985c-7b9a1f307713)
 ![image](https://github.com/3-RACEHORSE/.github/assets/121328409/7cd7fb0b-0c14-4012-9941-29c287502b5e)
-<img height = "300" src="https://github.com/3-RACEHORSE/.github/assets/121328409/4565e7e1-91ab-4d8e-8712-4b3971a2780e"/>
+<img width = "150" src="https://github.com/3-RACEHORSE/.github/assets/121328409/4565e7e1-91ab-4d8e-8712-4b3971a2780e"/>
 
 
 <br />
