@@ -207,7 +207,7 @@ https://www.erdcloud.com/d/B5TXAxjSmh2AeW4Bz
 | ![image](https://github.com/3-RACEHORSE/.github/assets/87313979/1f2186b2-448e-44b3-b9fa-8361b2357746) | ![image](https://github.com/3-RACEHORSE/.github/assets/87313979/6cdb2a96-7d69-4137-837c-59b20dcf9382) | ![image](https://github.com/3-RACEHORSE/.github/assets/87313979/18457b17-7c06-4060-be82-1d2674f56985)|
 
 
-|          어드민 로그인           |                어드민 전체 관리리                |   
+|          어드민 로그인           |                어드민 전체 관리                |   
 | :-------------------------------------: |:--------------------------------------: |
 | ![image](https://github.com/3-RACEHORSE/.github/assets/87313979/8a2cb653-562d-41ca-971b-3534676ca22b) | ![image](https://github.com/3-RACEHORSE/.github/assets/87313979/517c1eef-ef7b-43d1-af64-fd1a0a8a0337) |
 
