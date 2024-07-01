@@ -46,7 +46,7 @@
 | **Name**     | 조윤찬                                                                  | 김현준                                                                  | 박찬웅                                                                  | 이서용                                                                  | 정재윤                                                                                                                                  |
 |:------------:|:--------------------------------------------------------------------:|:--------------------------------------------------------------------:|:--------------------------------------------------------------------:|:--------------------------------------------------------------------:|:--------------------------------------------------------------------:|
 | **Profile**  || | |  |  |  
-| **Position** | Frontend <br/> (팀장)      | Backend              | Backend          | Backend                   | Backend            | 
+| **Position** | Frontend <br/> (팀장)      | Backend              | Backend          | Backend                   | Backend, Infra            | 
 | **Git** | [@YOON-CC](https://github.com/YOON-CC)       | [@hyun7494](https://https://github.com/hyun7494)    | [@chanchanwoong](https://github.com/chanchanwoong)      | [@LEEForgiveness](https://github.com/LEEForgiveness)    | [@ddolboghi](https://github.com/ddolboghi)            | 
 
 
