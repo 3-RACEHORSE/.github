@@ -51,7 +51,7 @@
 <br />
 
 # 3. 시스템 아키텍처
-![SystemArchitecture](https://github.com/SKY-HORSE-MAN-POWER/.github/assets/121328409/e9932f9b-d5d7-41f2-970e-798d3215191b)
+![SystemArchitecture](https://i.imgur.com/KQdy2ef.jpeg)
 
 <br />
 
