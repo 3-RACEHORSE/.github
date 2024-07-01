@@ -90,24 +90,23 @@
 </div>
 
 # 5. 협업
-- Git Issue 및 `Template` 활용
-  - 매번 PR 메시지 또는 컨벤션을 찾아보는 것이 비효율적으로 느껴져 템플릿 생성 후 일관성있는 이슈 생성 및 PR을 진행하였습니다.
-  - 팀원들의 코드 변경사항을 쉽고 빠르게 이해하는데 도움이 되었습니다.
-  <img width="400" src="https://github.com/6-SSGSAKK/.github/assets/73014511/47a5cbfe-a31f-49a9-bd1d-e7fa991a89b8">
-  <img width="400" src="https://github.com/6-SSGSAKK/.github/assets/73014511/2b687966-36a1-4b3b-922a-8fda662ade18">
+- Git Issue 및 `branch protection rules` 활용
+  - 이슈 생성 및 PR을 통해 팀원들의 코드 변경사항을 쉽고 빠르게 이해하는데 도움이 되었습니다.
+  - 'branch protection rules'를 통해 최소 2명의 팀원이 리뷰하고 승인해야만 merge가 가능하게 설정함으로써, 코드 품질을 유지하고 실수를 방지하며 팀 협업을 더 원활하게 만들었습니다.
+  <img width="400" src="https://github.com/SKY-HORSE-MAN-POWER/.github/assets/72384046/4f620781-27c9-4af4-b678-01fbc1b6f63c">
+  <img width="400" src="https://github.com/SKY-HORSE-MAN-POWER/.github/assets/72384046/1abf142e-e1aa-49d9-803d-86ef7847ea28">
   
  <br />
   
-- `Notion`을 통한 `문서관리` 및 소통
-  - 전반적인 프로젝트 관리(회고, 환경설정, 일정 등)
-  - API 명세서 관리
-  - 초반 API 문서관리에 소홀과 소통의 오류로 일관성없는 개발이 이루어졌습니다.(데이터 불일치로 인한 오류 등)
-  - 해당 문제를 개선하기 위해 노션에서의 API 명세서 관리 방식을 도입하였습니다.
-  - 백엔드 개발 진행 상황을 업데이트하고, 데이터를 명확하게 정의하였고,
-  👉배포완료 상태 확인 후 프론트 적용 및 테스트를 진행하였습니다.
-  - 소통이 더욱 활발하고 편리해졌고, 잘못된 데이터로 개발하여 수정하는 비효율성을 줄일 수 있었습니다. 
-![notion](https://github.com/6-SSGSAKK/.github/assets/73014511/cc2d78b6-aa6f-4790-a105-a31f68673388)
-![API](https://github.com/6-SSGSAKK/.github/assets/73014511/81995625-1ba9-4d09-93ef-f04cf8fdaf82)
+- 'Notion'을 통한 프로젝트 관리
+  - 프로젝트 문서(회고, 환경설정, 일정 등)
+- 프로젝트 문서화
+  - 매일마다 회의한 내용을 'Notion'의 회의록 탭에 꼼꼼히 기록 했습니다.
+  - 프로젝트 진행 도중 마주한 문제점을 트러블 슈팅에 문제 상황, 해결 방법, 참고 순으로 작성하였습니다.
+  - UserFlow, As Is ToBe 등 직접 작성했던 자료들을 사진으로 찍어 문서 탭에 저장하였습니다.
+
+![image](https://github.com/SKY-HORSE-MAN-POWER/.github/assets/72384046/7dd3445e-b72e-4fa7-9c8d-5e06bb860ed6)
+![image](https://github.com/SKY-HORSE-MAN-POWER/.github/assets/72384046/9b225cd1-6769-4e84-802b-3771a31c7056)
 
 <br />
 
@@ -119,35 +118,69 @@
 
 # 6. ERD
 
-![erd](https://github.com/6-SSGSAKK/.github/assets/73014511/00b5f5bd-859e-48a5-9260-75b950ae6999)
+![Copy of Copy of NEW천마인력](https://github.com/SKY-HORSE-MAN-POWER/.github/assets/72384046/11f3c0e3-938c-40f8-91fc-9f1984f81aaf)
+
 
 <br />
 
 # 7. 역할 분담
-### 🌗Frontend
- - #### 김예진
-    - 
+###✌️Frontend
+ - #### 조윤찬
+    - 메인 서비스 전반 담당, 관리자 서비스 전반 담당
 
- - #### 서여진
-    - 
-
-
-### 🌓Backend
- - #### 박태훈
-    - 
-
- - #### 박진영
-    - 
+### 🤞Backend
+ - #### 김현준
+    - 채팅 서비스, 리뷰 서비스, 관리자 서비스
 
  - #### 박찬웅
-    - 
+    - 경매 서비스, 경매글 서비스, 알림 서비스
+
+ - #### 이서용
+    - 멤버 서비스, 스프링 시큐리티, 알림 서비스, 결제 서비스, 관리자 서비스
+
+ - #### 정재윤
+    - 인프라, CDC, 카프카 구축 및 운영, 배치 서비스, 결제 서비스, 인플루언서 구독 서비스
 <br />
+
 
 <div align="right">
   
 [목차로](#목차)
 
 </div>
+# 6. ERD
+
+![Copy of Copy of NEW천마인력](https://github.com/SKY-HORSE-MAN-POWER/.github/assets/72384046/11f3c0e3-938c-40f8-91fc-9f1984f81aaf)
+
+
+<br />
+
+# 7. 역할 분담
+###✌️Frontend
+ - #### 조윤찬
+    - 메인 서비스 전반 담당, 관리자 서비스 전반 담당
+
+### 🤞Backend
+ - #### 김현준
+    - 채팅 서비스, 리뷰 서비스, 관리자 서비스
+
+ - #### 박찬웅
+    - 경매 서비스, 경매글 서비스, 알림 서비스
+
+ - #### 이서용
+    - 멤버 서비스, 스프링 시큐리티, 알림 서비스, 결제 서비스, 관리자 서비스
+
+ - #### 정재윤
+    - 인프라, CDC, 카프카 구축 및 운영, 배치 서비스, 결제 서비스, 인플루언서 구독 서비스
+<br />
+
+
+<div align="right">
+  
+[목차로](#목차)
+
+</div>
+
 
 # 8. 구현 기능
 <h3>[회원가입]</h3>
@@ -337,18 +370,11 @@
 </div>
 
 # 11. 프로젝트 후기
-### 🦕 박태훈
-
-
-### 🦖 박진영
-
-
-### 🐸 박찬웅
-
-### 💚 김예진
-
-
-### 🌱 서여진
+### 🦕 조윤찬
+### 🦖 정재윤
+### 🐸 이서용
+### 💚 박찬웅
+### 🌱 김현준
 
 
 <br />
