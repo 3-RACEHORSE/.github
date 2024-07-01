@@ -109,7 +109,11 @@
 ![스크린샷 2024-07-01 171205](https://github.com/SKY-HORSE-MAN-POWER/.github/assets/72384046/913a5c0b-fa44-47ff-81f9-9cd68676ec13)
 <br />
 ## 🏃‍♂️스프린트
-![스크린샷 2024-07-01 163047](https://github.com/SKY-HORSE-MAN-POWER/.github/assets/72384046/1f4341b3-9523-43ae-857a-a9ebdf83bb11)
+![image](https://github.com/3-RACEHORSE/.github/assets/121328409/faac6ad3-4941-48d7-afec-628a07f2de01)
+![image](https://github.com/3-RACEHORSE/.github/assets/121328409/1d9a7d72-26c4-4419-985c-7b9a1f307713)
+![image](https://github.com/3-RACEHORSE/.github/assets/121328409/7cd7fb0b-0c14-4012-9941-29c287502b5e)
+![image](https://github.com/3-RACEHORSE/.github/assets/121328409/4565e7e1-91ab-4d8e-8712-4b3971a2780e)
+
 
 <br />
 
