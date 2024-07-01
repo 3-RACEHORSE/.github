@@ -1,15 +1,21 @@
-# ⏲ 인플루언서 시간 경매 서비스
+<div align="center" >
 
-<img width="150" src="https://github.com/6-SSGSAKK/.github/assets/73014511/da216ac2-21a3-4426-81a7-6192d2f24c30">
-<img width="150" src="https://github.com/6-SSGSAKK/.github/assets/73014511/5b78e4bb-b3e9-46a9-ae4a-6c8ace2c3cc6">
+# 🎉 인플루언서 시간 경매 서비스
+
+![image](https://github.com/3-RACEHORSE/.github/assets/87313979/3bffe1fb-3b53-4b8c-a6a1-fb0e8bbcd957)
+
+
+[MEET PLUS 바로가기](https://fe-meetplus.vercel.app/)
 
 <br />
+
+`Test ID : meetplus12@gmail.com, meetplus21@gmail.com`
+
 <br />
 
-- 배포 URL : 
-- Test ID : meetplus12@gmail.com, meetplus21@gmail.com
-- Test PW : meetplus123!@
+`Test PW : meetplus123!@`
 
+</div>
 <br />
 
 # 목차
@@ -161,140 +167,23 @@ https://www.erdcloud.com/d/B5TXAxjSmh2AeW4Bz
 <br />
 
 # 8. 구현 기능
-<h3>[회원가입]</h3>
+<div align="center" >
 
-- 
+|               메인 페이지               |               경매 페이지                |           경매 리스트 페이지            |
+| :-------------------------------------: | :--------------------------------------: | :-------------------------------------: |
+| ![image](https://github.com/3-RACEHORSE/.github/assets/87313979/d9bf9ed3-da82-4876-a5c9-0087e82fed70) | ![image](https://github.com/3-RACEHORSE/.github/assets/87313979/97cb2531-9064-44fc-a578-c42d73439a42) | ![image](https://github.com/3-RACEHORSE/.github/assets/87313979/c81cbf55-b631-495b-aa33-c8246f33824c)|
 
-<br />
-  
-<table><thead><tr><th>회원가입</th></tr></thead>
-<tbody>
-<tr><td><animated-image data-catalyst="">
-<img width="300" src="https://github.com/6-SSGSAKK/.github/assets/73014511/6534f4a6-a2df-421f-8eec-e23ec93cfe1b"/>
-</animated-image></td>
-</tr></tbody></table>
+|             경메 상세 페이지             |            인플루언서 페이지            |               알림 페이지               |
+| :--------------------------------------: | :-------------------------------------: | :-------------------------------------: |
+| ![image](https://github.com/3-RACEHORSE/.github/assets/87313979/59c51214-cfb4-493a-b1b8-cb6e120832f9) | ![image](https://github.com/3-RACEHORSE/.github/assets/87313979/6c4c9f58-0d56-42d4-a022-8ce7d69d4b08) | ![image](https://github.com/3-RACEHORSE/.github/assets/87313979/bee84f06-4043-4f9a-ba9e-ddba0106667b)|
 
-  <br />
+|              채팅방 페이지              |              채팅룸 페이지              |               결제 페이지                |
+| :-------------------------------------: | :-------------------------------------: | :--------------------------------------: |
+| ![image](https://github.com/3-RACEHORSE/.github/assets/87313979/7b3cbe3a-e18e-4ead-b76e-507e62d69989) | ![image](https://github.com/3-RACEHORSE/.github/assets/87313979/c2d07d35-b905-4e45-ade7-30343078887a)| ![image](https://github.com/3-RACEHORSE/.github/assets/87313979/f1b107a9-b923-4c71-a807-0fc011d7eb44)|
 
-<h3>[로그인]</h3>
-
-- 
-  
-<br />
-  
-<table><thead><tr><th>로그인</th></tr></thead>
-<tbody>
-<tr><td><animated-image data-catalyst="">
-<img width="300" src="https://github.com/6-SSGSAKK/.github/assets/73014511/97e770f4-95ac-455a-9bac-f3173f8c7117"/>
-</animated-image></td>
-</tr></tbody></table>
-
-<br />
-
-<h3>[홈 화면]</h3>
-
-- 
-
-<br />
-  
-
-<h3>[상품검색]</h3>
-
-- 
-
-<br />
-  
-<table><thead><tr><th>상품 검색</th></tr></thead>
-<tbody>
-<tr><td><animated-image data-catalyst="">
-<img width="300" src="https://github.com/6-SSGSAKK/.github/assets/73014511/b5db53a7-6420-407e-85ef-6854fd64ecce"/>
-</animated-image></td>
-</tr></tbody></table>
-
-<br />
-
-<h3>[카테고리, 이벤트, 베스트 상품 목록 조회]</h3>
-
-- 
-<br />
-  
-<table><thead><tr><th>카테고리 조회</th></tr></thead>
-<tbody>
-<tr><td><animated-image data-catalyst="">
-<img width="300" src="https://github.com/6-SSGSAKK/.github/assets/73014511/a62a0388-03ed-4769-844a-f99ce6111495"/>
-</animated-image></td>
-</tr></tbody></table>
-
-<br />
-
-<h3>[상품/카테고리 찜]</h3>
-
-- 
-
-<br />
-  
-  <table><thead><tr><th>상품 찜</th></tr></thead>
-<tbody>
-<tr><td><animated-image data-catalyst="">
-<img width="300" src="https://github.com/6-SSGSAKK/.github/assets/73014511/9ef47fef-c831-470e-b0aa-9c44de7bd4b4"/>
-</animated-image></td>
-</tr></tbody></table>
-
-<br />
-
-<h3>[회원 장바구니]</h3>
-
-- 
-<br />
-  
-<table><thead><tr><th>회원 장바구니</th></tr></thead>
-<tbody>
-<tr><td><animated-image data-catalyst="">
-<img width="300" src="https://github.com/6-SSGSAKK/.github/assets/73014511/18504514-e199-4d66-a911-3a3131322d89"/>
-</animated-image></td>
-</tr></tbody></table>
-
-<br />
-
-<h3>[회원 주문]</h3>
-
-- 
-
-<br />
-  
-<table><thead><tr><th>회원 주문</th></tr></thead>
-<tbody>
-<tr><td><animated-image data-catalyst="">
-<img width="300" src="https://github.com/6-SSGSAKK/.github/assets/73014511/1f395bab-a7fc-4bb3-8c05-fab97f5bb8f0"/>
-</animated-image></td>
-</tr></tbody></table>
-
-<br />
-
-
-<h3>[상품 상세 페이지]</h3>
-
-- 
-  
-
-<h3>[리뷰]</h3>
-
-- 
-
-<br />
-
-<table><thead><tr><th>상품 리뷰 조회</th></tr></thead>
-<tbody>
-<tr><td><animated-image data-catalyst="">
-<img width="300" src="https://github.com/6-SSGSAKK/.github/assets/73014511/9815d2d1-1ba2-45e6-ac7b-15bc1f133536"/>
-</animated-image></td>
-</tr></tbody></table>
-
-<br />
-
-<h3>[회원 정보 관리]</h3>
-
-- 
+|          회원가입 관련 페이지           |                마이페이지                |          서비스 다크모드 적용           |
+| :-------------------------------------: | :--------------------------------------: | :-------------------------------------: |
+| ![image](https://github.com/3-RACEHORSE/.github/assets/87313979/1f2186b2-448e-44b3-b9fa-8361b2357746) | ![image](https://github.com/3-RACEHORSE/.github/assets/87313979/6cdb2a96-7d69-4137-837c-59b20dcf9382) | ![image](https://github.com/3-RACEHORSE/.github/assets/87313979/18457b17-7c06-4060-be82-1d2674f56985)|
 
 <br />
 
