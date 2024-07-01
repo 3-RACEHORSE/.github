@@ -10,8 +10,6 @@
 - Test ID : 
 - Test PW : 
 
-- [백엔드 저장소](https://github.com/6-SSGSAKK/ssgsakk-be)
-
 <br />
 
 # 목차
@@ -53,7 +51,7 @@
 <br />
 
 # 3. 시스템 아키텍처
-![image](https://github.com/SKY-HORSE-MAN-POWER/.github/assets/121328409/e9932f9b-d5d7-41f2-970e-798d3215191b)
+![SystemArchitecture](https://github.com/SKY-HORSE-MAN-POWER/.github/assets/121328409/e9932f9b-d5d7-41f2-970e-798d3215191b)
 
 <br />
 
@@ -61,25 +59,25 @@
 
 ## 💻 IDE
 
-![VSCode](https://img.shields.io/badge/VisualStudioCode-007ACC?style=for-the-badge&logo=VisualStudioCode&logoColor=white)
+![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=VSCode&logoColor=white)
 ![IntelliJ](https://img.shields.io/badge/intellijidea-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
 
 ## 📱 Frontend
-![NEXT.JS](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=Next.js&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) ![Tailwind](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=TailwindCSS&logoColor=white) 
-<img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=white">
-<img src="https://img.shields.io/badge/recoil-3578E5?style=for-the-badge&logo=recoil&logoColor=white">
+![NEXT.JS](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=Next.js&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) ![Tailwind](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=TailwindCSS&logoColor=white) ![React Query](https://img.shields.io/badge/reactquery-%23FF4154?style=for-the-badge&logo=reactquery&logoColor=white) ![PWA](https://img.shields.io/badge/pwa-%235A0FC8?style=for-the-badge&logo=pwa&logoColor=white) ![SCSS](https://img.shields.io/badge/SCSS-%23CC6699?style=for-the-badge&logo=SCSS&logoColor=white) ![Jest](https://img.shields.io/badge/jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000?style=for-the-badge&logo=vercel&logoColor=white) ![Shadcn/ui](https://img.shields.io/badge/shadcnui-%23000000?style=for-the-badge&logo=shadcnui&logoColor=white)
 <img src="https://img.shields.io/badge/amazons3-569A31?style=for-the-badge&logo=amazons3&logoColor=white">
-
+<img src="https://img.shields.io/badge/githubactions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white">
 
 ## 💾 Backend
 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![SpringBoot](https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white) ![SpringBoot](https://img.shields.io/badge/springsecurity-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![mysql](https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
- ![Querydsl](https://img.shields.io/badge/Querydsl-007ACC?style=for-the-badge&logo=Querydsl&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![SpringBoot](https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white) ![SpringSecurity](https://img.shields.io/badge/springsecurity-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white) ![SpringWebflux](https://img.shields.io/badge/springwebflux-%236DB33F?style=for-the-badge&logo=springwebflux&logoColor=white) ![SpringBatch](https://img.shields.io/badge/springbatch-%236DB33F?style=for-the-badge&logo=springbatch&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/postgresql-%234169E1?style=for-the-badge&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/mongodb-%2347A248?style=for-the-badge&logo=mongodb&logoColor=white) 
+![Kafka](https://img.shields.io/badge/apachekafka-%23231F20?style=for-the-badge&logo=apachekafka&logoColor=white) ![Kafka Connect](https://img.shields.io/badge/Kafka%20Connect-%23231F20?style=for-the-badge&logo=Kafka%20Connect&logoColor=white) ![Querydsl](https://img.shields.io/badge/Querydsl-007ACC?style=for-the-badge&logo=Querydsl&logoColor=white)  ![JPA](https://img.shields.io/badge/JPA-%2334E27A?style=for-the-badge&logo=JPA&logoColor=white)
+![Debezium](https://img.shields.io/badge/debezium-%2309B6A2?style=for-the-badge&logo=debezium&logoColor=white)
 
+## 🔃 Infra
 
-## 🔃 DevOPS
-
-![docker](https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![amazonec2](https://img.shields.io/badge/amazonec2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white)
+![docker](https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![DockerCompose](https://img.shields.io/badge/dockercompose-%232496ED?style=for-the-badge&logo=dockercompose&logoColor=white) ![amazonec2](https://img.shields.io/badge/amazonec2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white) ![AWSLambda](https://img.shields.io/badge/awslambda-%23FF9900?style=for-the-badge&logo=awslambda&logoColor=white) ![AWSElasticloadbalancing](https://img.shields.io/badge/awselasticloadbalancing-%238C4FFF?style=for-the-badge&logo=awselasticloadbalancing&logoColor=white)
+![SpringCloud](https://img.shields.io/badge/spring%20cloud-%236DB33F?style=for-the-badge&logo=springcloud&logoColor=white) ![SpringGateway](https://img.shields.io/badge/springgateway-%236DB33F?style=for-the-badge&logo=springgateway&logoColor=white)
+![ElasticSearch](https://img.shields.io/badge/elasticsearch-%23005571?style=for-the-badge&logo=elasticsearch&logoColor=white) ![Kibana](https://img.shields.io/badge/kibana-%23005571?style=for-the-badge&logo=kibana&logoColor=white) ![Logstash](https://img.shields.io/badge/logstash-%23005571?style=for-the-badge&logo=logstash&logoColor=white)
 <img src="https://img.shields.io/badge/githubactions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white">
 
 
