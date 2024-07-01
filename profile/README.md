@@ -8,24 +8,16 @@
 
 [MEET PLUS 바로가기](https://fe-meetplus.vercel.app/)
 
-<div>
-
-<div>
   
 MEET PLUS Test ID-1 : `meetplus12@gmail.com`
 
 MEET PLUS Test ID-2 : `meetplus21@gmail.com`
 
 MEET PLUS Test PW : `meetplus123!@`
-</div>
 
 ---
 
 [ADMIN SYSTEM 바로가기](https://fe-admin-xi.vercel.app/)
-
-<div>
-
-<div>
   
 ADMIN SYSTEM Test ID : `admin`
 
@@ -210,7 +202,7 @@ https://www.erdcloud.com/d/B5TXAxjSmh2AeW4Bz
 |          어드민 로그인           |                어드민 전체 관리                |   
 | :-------------------------------------: |:--------------------------------------: |
 | ![image](https://github.com/3-RACEHORSE/.github/assets/87313979/8a2cb653-562d-41ca-971b-3534676ca22b) | ![image](https://github.com/3-RACEHORSE/.github/assets/87313979/517c1eef-ef7b-43d1-af64-fd1a0a8a0337) |
-
+</div>
 <br />
 
 <div align="right">
@@ -226,9 +218,9 @@ https://www.erdcloud.com/d/B5TXAxjSmh2AeW4Bz
 : 현재 시간이 `라운드 마감 시간`에 도달했으며 `낙찰 가능 인원`이 0이 아닌 경우에 `경매 마감 API`를 호출한다. 보고있는 브라우저가 100개 있으면 100번의 `경매 마감 API`를 호출. <br />
 
 - 그럼 다음과 같은 상황이 된다. <br />
-
+<div alignt="right">
   <img width="500" src="https://i.imgur.com/al80Yvk.png">
-
+</div>
 <br />
 - 다수의 `경매 마감 API`가 경매 마감 여부를 조회했을 때 전부 `경매 마감 미처리` 라고 조회된다. 이렇게 되면 여러 번의 경매 마감 로직이 진행되는 문제가 발생!<br />
 👉 PostgreSQL의 `unique` 설정을 이용한다. <br />
