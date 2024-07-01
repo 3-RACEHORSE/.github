@@ -7,8 +7,8 @@
 <br />
 
 - 배포 URL : 
-- Test ID : 
-- Test PW : 
+- Test ID : meetplus12@gmail.com, meetplus21@gmail.com
+- Test PW : meetplus123!@
 
 <br />
 
