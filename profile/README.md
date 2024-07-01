@@ -69,9 +69,10 @@ ADMIN SYSTEM Test PW : `admin`
 # 2. 팀원 구성
 | **Name**     | 조윤찬                                                                  | 김현준                                                                  | 박찬웅                                                                  | 이서용                                                                  | 정재윤                                                                                                                                  |
 |:------------:|:--------------------------------------------------------------------:|:--------------------------------------------------------------------:|:--------------------------------------------------------------------:|:--------------------------------------------------------------------:|:--------------------------------------------------------------------:|
-| **Profile**  |![image](https://github.com/3-RACEHORSE/.github/assets/121328409/fdc54d84-d21e-436e-be49-35389df26aa1)|![image](https://github.com/3-RACEHORSE/.github/assets/121328409/05b90cc5-70fd-4fc4-9314-8a682e6ce94c)|![image](https://github.com/3-RACEHORSE/.github/assets/121328409/e225ce61-d46d-48b3-bffe-57bd1ab169f4)|![image](https://github.com/3-RACEHORSE/.github/assets/121328409/a5072d9d-ab78-450b-b35f-974854efa62b)|![image](https://github.com/3-RACEHORSE/.github/assets/121328409/0a46ed01-4e9d-4f2b-a718-89092f8c763e)|  
+| **Profile**  |<img src="https://github.com/3-RACEHORSE/.github/assets/121328409/fdc54d84-d21e-436e-be49-35389df26aa1" style="width: 100px; height: 100px; object-fit: cover;"/>|<img src="https://github.com/3-RACEHORSE/.github/assets/121328409/05b90cc5-70fd-4fc4-9314-8a682e6ce94c" style="width: 100px; height: 100px; object-fit: cover;"/>|<img src="https://github.com/3-RACEHORSE/.github/assets/121328409/e225ce61-d46d-48b3-bffe-57bd1ab169f4" style="width: 100px; height: 100px; object-fit: cover;"/>|<img src="https://github.com/3-RACEHORSE/.github/assets/121328409/a5072d9d-ab78-450b-b35f-974854efa62b" style="width: 100px; height: 100px; object-fit: cover;"/>|<img src="https://github.com/3-RACEHORSE/.github/assets/121328409/0a46ed01-4e9d-4f2b-a718-89092f8c763e" style="width: 100px; height: 100px; object-fit: cover;"/>|  
 | **Position** | Frontend <br/> (팀장)      | Backend              | Backend          | Backend                   | Backend, Infra            | 
 | **Git** | [@YOON-CC](https://github.com/YOON-CC)       | [@hyun7494](https://https://github.com/hyun7494)    | [@chanchanwoong](https://github.com/chanchanwoong)      | [@LEEForgiveness](https://github.com/LEEForgiveness)    | [@ddolboghi](https://github.com/ddolboghi)            | 
+
 
 
 <br />
@@ -205,6 +206,11 @@ https://www.erdcloud.com/d/B5TXAxjSmh2AeW4Bz
 | :-------------------------------------: | :--------------------------------------: | :-------------------------------------: |
 | ![image](https://github.com/3-RACEHORSE/.github/assets/87313979/1f2186b2-448e-44b3-b9fa-8361b2357746) | ![image](https://github.com/3-RACEHORSE/.github/assets/87313979/6cdb2a96-7d69-4137-837c-59b20dcf9382) | ![image](https://github.com/3-RACEHORSE/.github/assets/87313979/18457b17-7c06-4060-be82-1d2674f56985)|
 
+
+|          어드민 로그인           |                어드민 전체 관리리                |   
+| :-------------------------------------: |:--------------------------------------: |
+| ![image](https://github.com/3-RACEHORSE/.github/assets/87313979/8a2cb653-562d-41ca-971b-3534676ca22b) | ![image](https://github.com/3-RACEHORSE/.github/assets/87313979/517c1eef-ef7b-43d1-af64-fd1a0a8a0337) |
+
 <br />
 
 <div align="right">
@@ -254,6 +260,7 @@ https://www.erdcloud.com/d/B5TXAxjSmh2AeW4Bz
 
 # 11. 프로젝트 후기
 ### 🦕 조윤찬
+팀장의 역할을 수행하며, 개인의 성장은 결국 열정있는 팀원들로부터 자극을 받는다는 것을 알게 되었습니다. 또한, 프론트 전체를 담당하며, 팀원들에게 피해가 가지 않도록 스프린트를 지켜가며 개발을 하는 과정에서 책임감을 기를 수 있었던 좋은 경험이었습니다.
 ### 🦖 정재윤
 기술적 성장도 있었지만 가장 많이 성장한 부분은 협업 능력이었습니다. 팀원들과 수없이 토론하며 점점 제 생각을 다른 사람이 이해하기 쉽게 전달할 수 있게 되었습니다. 
 프로젝트를 진행할수록 기술을 중요시했는데, 기획이 바뀌고 나서는 사용자의 관점에서 서비스를 바라보았습니다. 이를 통해 기술의 완성도보다 서비스의 완성도를 중시하게 되었습니다.
