@@ -1,19 +1,39 @@
 <div align="center" >
 
-# 🎉 인플루언서 시간 경매 서비스
+# 🎉인플루언서 팬미팅 경매 서비스
 
 ![image](https://github.com/3-RACEHORSE/.github/assets/87313979/3bffe1fb-3b53-4b8c-a6a1-fb0e8bbcd957)
 
+---
 
 [MEET PLUS 바로가기](https://fe-meetplus.vercel.app/)
 
-<br />
+<div>
 
-`Test ID : meetplus12@gmail.com, meetplus21@gmail.com`
+<div>
+  
+MEET PLUS Test ID-1 : `meetplus12@gmail.com`
 
-<br />
+MEET PLUS Test ID-2 : `meetplus21@gmail.com`
 
-`Test PW : meetplus123!@`
+MEET PLUS Test PW : `meetplus123!@`
+</div>
+
+---
+
+[ADMIN SYSTEM 바로가기](https://fe-admin-xi.vercel.app/)
+
+<div>
+
+<div>
+  
+ADMIN SYSTEM Test ID : `admin`
+
+ADMIN SYSTEM Test PW : `admin`
+</div>
+
+---
+
 
 </div>
 <br />
