@@ -123,6 +123,9 @@ ADMIN SYSTEM Test PW : `admin`
   - 매일마다 회의한 내용을 'Notion'의 회의록 탭에 꼼꼼히 기록 했습니다.
   - 프로젝트 진행 도중 마주한 문제점을 트러블 슈팅에 문제 상황, 해결 방법, 참고 순으로 작성하였습니다.
   - UserFlow, As Is ToBe 등 직접 작성했던 자료들을 사진으로 찍어 문서 탭에 저장하였습니다.
+## 📒As-Is-ToBe
+![image](https://github.com/3-RACEHORSE/.github/assets/72384046/a11e70ae-3658-4b62-957a-621f443ea0cb)
+
 
 ## ✍️회의록
 ![스크린샷 2024-07-01 171205](https://github.com/SKY-HORSE-MAN-POWER/.github/assets/72384046/913a5c0b-fa44-47ff-81f9-9cd68676ec13)
