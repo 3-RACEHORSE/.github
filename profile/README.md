@@ -19,9 +19,6 @@ MEET PLUS Test PW : `meetplus123!@`
 
 [ADMIN SYSTEM 바로가기](https://fe-admin-xi.vercel.app/)
   
-ADMIN SYSTEM Test ID : `admin`
-
-ADMIN SYSTEM Test PW : `admin`
 </div>
 
 ---
