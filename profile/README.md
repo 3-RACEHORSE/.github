@@ -9,9 +9,7 @@
 [MEET PLUS 바로가기](https://fe-meetplus.vercel.app/)
 
   
-MEET PLUS Test ID-1 : `meetplus12@gmail.com`
-
-MEET PLUS Test ID-2 : `meetplus21@gmail.com`
+MEET PLUS Test ID-1 : `meetplus1@gmail.com`
 
 MEET PLUS Test PW : `meetplus123!@`
 
